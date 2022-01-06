@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naida Sobo!</h1>
 <h3 align="center">A passionate frontend developer from Bosnia, living in Detroit, MI!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naidasobo&label=Profile%20views&color=0e75b6&style=flat" alt="naidasobo" /> </p>
-
 - 🔭 I’m currently working on [Electric Camino To-Do List App](https://www.youtube.com/watch?v=sAzhsnMFtJw)
 
 - 🌱 I’m currently learning **Data Solutions**
