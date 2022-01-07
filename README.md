@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naida Sobo!</h1>
-<h3 align="center">A passionate Developer from Bosnia, living in Detroit, MI!</h3>
+<h3 align="center">A passionate Developer born in Bosnia, living in Detroit, MI!</h3>
 
 - 🔭 I’m currently working on [Electric Camino To-Do List App](https://www.youtube.com/watch?v=sAzhsnMFtJw)
 
